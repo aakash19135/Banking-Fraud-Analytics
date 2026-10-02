@@ -47,3 +47,13 @@ The Power BI dashboard contains three interactive pages:
 The complete Power BI dashboard is available in:
 
 `banking_fraud_analysis.pbix`
+## Dashboard Preview
+
+### Overview
+![Overview](overview.png)
+
+### Risk Analysis
+![Risk Analysis](risk-analysis.png)
+
+### Fraud Insights
+![Fraud Insights](fraud-insights.png)
